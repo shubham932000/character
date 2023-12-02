@@ -3,7 +3,7 @@
 ## Overview
 
 ## Industry Type: Ed-tech
-## Project Title :Char-NFTContainerApp
+## Project Title : Char-NFTContainerApp
 
 ### Core Idea:
 

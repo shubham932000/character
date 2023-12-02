@@ -24,6 +24,11 @@ Char-NFTContainerApp guides users through setting up a Linux-based Virtual Machi
 ### Azure Web App Integration:
 The project emphasizes deploying containerized applications using Azure Web Apps, simplifying deployment and scaling for a user-friendly experience. Integration enhances accessibility and usability for containerized educational applications.
 
+### Resource visualizer:
+
+![my-rg](https://github.com/shubham932000/character/assets/70796536/386c573f-c29c-45c1-a494-956fad404c46)
+
+
 ## Azure Technologies and Services Used:
 
 - Azure Container Instances (ACI)
@@ -47,3 +52,4 @@ The purpose is to empower educational institutions with modern, containerized ap
 ## Conclusion:
 
 In conclusion, Char-NFTContainerApp aligns its purpose and functionality with the identified problem statement. It offers a structured solution for deploying and managing containerized applications in Azure, serving as a valuable resource for educational institutions seeking a flexible, scalable, and secure environment in the ever-evolving ed-tech landscape.
+

@@ -33,13 +33,10 @@ The project emphasizes deploying containerized applications using Azure Web Apps
 
 - Azure Container Instances (ACI)
 - Virtual Machine
-- Azure Web Apps
 - Azure Virtual Networks
 - Azure Network Security Groups (NSGs)
-- Azure Virtual Network
-- Azure Resource Manager (ARM)
 - Azure Disk Storage
-- Azure Marketplace (for educational application acquisition)
+
 
 ## Clear Explanation of the Solution:
 

@@ -53,3 +53,6 @@ The purpose is to empower educational institutions with modern, containerized ap
 
 In conclusion, Char-NFTContainerApp aligns its purpose and functionality with the identified problem statement. It offers a structured solution for deploying and managing containerized applications in Azure, serving as a valuable resource for educational institutions seeking a flexible, scalable, and secure environment in the ever-evolving ed-tech landscape.
 
+## Video Demo : https://www.youtube.com/watch?v=4ueTRtlVhhA
+## Live Running Project : http://char-nftcontainerapp.gmbpgkdkd7b9exfy.eastus.azurecontainer.io/
+

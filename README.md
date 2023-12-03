@@ -37,12 +37,6 @@ By combining ACI, Virtual Machines, and direct container instance deployment wit
 <img src="https://github.com/shubham932000/character/assets/70796536/07077581-259b-4ac9-8362-617d6c263875" alt="my-rg"/>
 </p>
 
-
-
-
-
-
-
 ## Azure Technologies and Services Used:
 
 - Azure Container Instances (ACI)
@@ -65,8 +59,6 @@ The purpose is to empower educational institutions with modern, containerized ap
 In conclusion, Char-NFTContainerApp aligns its purpose and functionality with the identified problem statement. It offers a structured solution for deploying and managing containerized applications in Azure, serving as a valuable resource for educational institutions seeking a flexible, scalable, and secure environment in the ever-evolving ed-tech landscape.
 
 ## Video Demo : https://www.youtube.com/watch?v=4ueTRtlVhhA
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ueTRtlVhhA" frameborder="0" allowfullscreen></iframe>
 
 ## Live Running Project : http://char-nftcontainerapp.gmbpgkdkd7b9exfy.eastus.azurecontainer.io/
 ## ScreenShots: 

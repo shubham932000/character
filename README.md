@@ -5,24 +5,26 @@
 ## Industry Type: Ed-tech
 ## Project Title : Char-NFTContainerApp
 
-### Core Idea:
+## Core Idea:
 
-Char-NFTContainerApp addresses the imperative need for scalable and secure containerized applications in educational technology. The project's core idea is to deliver a comprehensive solution for deploying container instances in Azure, ensuring efficient resource utilization, robust security, and dependable performance. By doing so, it facilitates educational institutions in seamlessly delivering content and services to students and educators.
+Char-NFTContainerApp embodies a pivotal solution to address the critical demand for scalable and secure containerized applications in educational technology. The project's fundamental concept revolves around delivering a comprehensive solution for deploying container instances in Azure, ensuring not only efficient resource utilization but also robust security measures and dependable performance. Through this approach, the application facilitates educational institutions in seamlessly delivering content and services to students and educators.
 
-### Problem Statement/Opportunity:
+## Problem Statement/Opportunity:
 
-The educational technology landscape demands innovative solutions capable of efficiently handling the dynamic delivery of educational content and services. Traditional infrastructure often falls short in meeting the agile scalability requirements of modern education. Char-NFTContainerApp focuses on solving the challenge of deploying and managing containerized applications in Azure, providing a flexible, scalable, and secure environment for educational content delivery.
+The landscape of educational technology requires innovative solutions capable of efficiently managing the dynamic delivery of educational content and services. Traditional infrastructure often falls short in meeting the agile scalability requirements of modern education. Recognizing this challenge, Char-NFTContainerApp focuses on deploying and managing containerized applications in Azure, establishing a flexible, scalable, and secure environment for the efficient delivery of educational content.
 
 ## How the Project Solves the Problem:
 
 ### Azure Container Instances (ACI) Deployment:
-The project leverages Azure Container Instances (ACI), offering a serverless container runtime for swift deployment without managing underlying infrastructure. ACI ensures optimal resource utilization, ideal for the dynamic needs of educational content delivery.
+The project strategically utilizes Azure Container Instances (ACI), providing a serverless container runtime for swift deployment without the burden of managing underlying infrastructure. ACI ensures optimal resource utilization, aligning perfectly with the dynamic needs of educational content delivery.
 
 ### Virtual Machine Setup:
-Char-NFTContainerApp guides users through setting up a Linux-based Virtual Machine in Azure, providing a versatile and customizable environment. This addresses the need for greater control over infrastructure while maintaining flexibility.
+Char-NFTContainerApp guides users through the seamless setup of a Linux-based Virtual Machine in Azure, offering a versatile and customizable environment. This addresses the imperative need for greater control over infrastructure while preserving flexibility.
 
-### Azure Web App Integration:
-The project emphasizes deploying containerized applications using Azure Web Apps, simplifying deployment and scaling for a user-friendly experience. Integration enhances accessibility and usability for containerized educational applications.
+### Direct Container Instance Deployment with FQDN:
+As a flexible alternative, the project also supports direct container instance deployment to Azure Container Instances with a Fully Qualified Domain Name (FQDN). This streamlined approach simplifies deployment, offering users a direct and efficient method for managing containers while maintaining scalability and security.
+
+By combining ACI, Virtual Machines, and direct container instance deployment with FQDN, Char-NFTContainerApp provides a holistic solution, catering to diverse preferences and addressing the nuanced requirements within the educational technology landscape.
 
 ### Resource visualizer:
 

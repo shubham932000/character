@@ -28,7 +28,19 @@ By combining ACI, Virtual Machines, and direct container instance deployment wit
 
 ### Resource visualizer:
 
-![my-rg](https://github.com/shubham932000/character/assets/70796536/386c573f-c29c-45c1-a494-956fad404c46){ width: 50%; height:50% }
+<p align="center">
+  <img src="https://github.com/shubham932000/character/assets/70796536/386c573f-c29c-45c1-a494-956fad404c46" alt="my-rg" width="500" height="500" /><br>
+</p>
+
+### Resource Group :
+<p align= "center">
+<img src="https://github.com/shubham932000/character/assets/70796536/07077581-259b-4ac9-8362-617d6c263875" alt="my-rg"/>
+</p>
+
+
+
+
+
 
 
 ## Azure Technologies and Services Used:
@@ -54,4 +66,8 @@ In conclusion, Char-NFTContainerApp aligns its purpose and functionality with th
 
 ## Video Demo : https://www.youtube.com/watch?v=4ueTRtlVhhA
 ## Live Running Project : http://char-nftcontainerapp.gmbpgkdkd7b9exfy.eastus.azurecontainer.io/
+## ScreenShots: 
+![image](https://github.com/shubham932000/character/assets/70796536/c6351d46-f7d7-440e-976b-40cb7d01ebcc)
+![image](https://github.com/shubham932000/character/assets/70796536/b79a93c9-8d50-4149-b9ee-d02aeecd9489)
+
 

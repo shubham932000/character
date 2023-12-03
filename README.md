@@ -28,7 +28,7 @@ By combining ACI, Virtual Machines, and direct container instance deployment wit
 
 ### Resource visualizer:
 
-![my-rg](https://github.com/shubham932000/character/assets/70796536/386c573f-c29c-45c1-a494-956fad404c46)
+![my-rg](https://github.com/shubham932000/character/assets/70796536/386c573f-c29c-45c1-a494-956fad404c46){ width: 50%; height:50% }
 
 
 ## Azure Technologies and Services Used:

@@ -6,6 +6,7 @@ pipeline {
             steps {
                 // Your build commands go here
                 echo 'building project'
+                echo 'project built'
             }
         }
 
